@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "chart.js": "^3.7.1",
+    "node.js": "^0.0.1-security",
+    "npm": "^8.5.1"
+  }
+}
